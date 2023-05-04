@@ -1,0 +1,46 @@
+[
+  {
+    "lang": "en",
+    "msg": "If you're seeing this page, you tried to access here without authorization, your access is denied."
+  },
+  {
+    "lang": "tr",
+    "msg": "Bu sayfayı görüyorsanız, buraya yetkisiz erişmeye çalıştınız, erişiminiz reddedildi."
+  },
+  {
+    "lang": "zh",
+    "msg": "如果您看到此页面，则说明您在未经授权的情况下尝试访问此处，您的访问被拒绝。"
+  },
+  {
+    "lang": "ar",
+    "msg": "إذا رأيت هذه الصفحة ، فقد حاولت الوصول إلى هنا بدون إذن ، تم رفض وصولك."
+  },
+  {
+    "lang": "ru",
+    "msg": "Если вы видите эту страницу, вы попытались получить доступ сюда без авторизации, ваш доступ отклонен."
+  },
+  {
+    "lang": "ja",
+    "msg": "このページを見ている場合、許可なくここにアクセスしようとしました。アクセスが拒否されました。"
+  },
+  {
+    "lang": "pt",
+    "msg": "Se você está vendo esta página, tentou acessar aqui sem autorização, seu acesso foi negado."
+  },
+  {
+    "lang": "hi",
+    "msg": "यदि आप इस पृष्ठ को देख रहे हैं, तो आपने अनुमति के बिना यहां पहुंचने का प्रयास किया है, आपका पहुंच अस्वीकृत कर दिया गया है।"
+  },
+  {
+    "lang": "es",
+    "msg": "Si está viendo esta página, intentó acceder aquí sin autorización, se denegó su acceso."
+  },
+  {
+    "lang": "fr",
+    "msg": "Si vous voyez cette page, vous avez essayé d'y accéder sans autorisation, votre accès est refusé."
+  },
+  {
+    "lang": "de",
+    "msg": "Wenn Sie diese Seite sehen, haben Sie versucht, hier ohne Autorisierung zuzugreifen, Ihr Zugriff wird verweigert."
+  }
+]

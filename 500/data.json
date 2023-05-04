@@ -1,0 +1,46 @@
+[
+  {
+    "lang": "en",
+    "msg": "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/"
+  },
+  {
+    "lang": "tr",
+    "msg": "Bu sayfayı görüyorsanız, bir şeyler ters gitti ve biz bir şeyleri mahvettik. Uzun zamandır görüyorsanız, başımız dertte. :/"
+  },
+  {
+    "lang": "zh",
+    "msg": "如果你看到这个页面，那么肯定是出了些问题，我们搞砸了什么。如果你看到这个页面很长时间了，那我们就有麻烦了。: /"
+  },
+  {
+    "lang": "ar",
+    "msg": "إذا كنت ترى هذه الصفحة، فإن شيئًا ما حدث وخربنا شيئًا. إذا كنت تراها لفترة طويلة، فنحن في ورطة. :/"
+  },
+  {
+    "lang": "ru",
+    "msg": "Если вы видите эту страницу, что-то пошло не так, и мы что-то испортили. Если вы видите ее давно, у нас проблемы. :/"
+  },
+  {
+    "lang": "ja",
+    "msg": "このページを見ている場合、何かがうまくいかず、何かを台無しにしてしまいました。長い間見ている場合、問題があります。 : /"
+  },
+  {
+    "lang": "pt",
+    "msg": "Se você está vendo esta página, algo deu errado e nós bagunçamos alguma coisa. Se você está vendo isso há muito tempo, estamos com problemas. :/"
+  },
+  {
+    "lang": "hi",
+    "msg": "अगर आप इस पृष्ठ को देख रहे हैं, तो कुछ गलत हो गया है और हमने कुछ करबद्ध कर दिया है। अगर आप इसे बहुत लंबे समय से देख रहे हैं, तो हमें मुसीबत हो गई है।: /"
+  },
+  {
+    "lang": "es",
+    "msg": "Si estás viendo esta página, algo salió mal y arruinamos algo. Si has estado viéndola por mucho tiempo, estamos en problemas. :/"
+  },
+  {
+    "lang": "fr",
+    "msg": "Si vous voyez cette page, quelque chose s'est mal passé et nous avons gâché quelque chose. Si vous la voyez depuis longtemps, nous avons un problème. :/"
+  },
+  {
+    "lang": "de",
+    "msg": "Wenn Sie diese Seite sehen, ist etwas schiefgelaufen und wir haben etwas durcheinandergebracht. Wenn Sie sie schon lange sehen, haben wir ein Problem. :/"
+  }
+]

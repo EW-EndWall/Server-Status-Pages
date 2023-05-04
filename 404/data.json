@@ -1,0 +1,46 @@
+[
+  {
+    "lang": "en",
+    "msg": "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything."
+  },
+  {
+    "lang": "tr",
+    "msg": "Bu sayfayı görüyorsanız, bir şeyler ters gitti, her yeri aradık ama hiçbir şey bulamadık."
+  },
+  {
+    "lang": "zh",
+    "msg": "如果您看到此页面，说明出现了问题，我们已经到处搜索，但找不到任何内容。"
+  },
+  {
+    "lang": "ar",
+    "msg": "إذا رأيت هذه الصفحة، فهناك خطأ ما، بحثنا في كل مكان ولكننا لم نجد أي شيء."
+  },
+  {
+    "lang": "ru",
+    "msg": "Если вы видите эту страницу, что-то пошло не так, мы искали везде, но ничего не нашли."
+  },
+  {
+    "lang": "ja",
+    "msg": "このページが表示されている場合、何かがうまくいかなかったため、どこを探しても何も見つかりませんでした。"
+  },
+  {
+    "lang": "pt",
+    "msg": "Se você está vendo esta página, algo deu errado, procuramos em todos os lugares, mas não conseguimos encontrar nada."
+  },
+  {
+    "lang": "hi",
+    "msg": "यदि आप इस पृष्ठ को देख रहे हैं, तो कुछ गलत हो गया है, हम हर जगह खोज करते रहे लेकिन कुछ नहीं मिला।"
+  },
+  {
+    "lang": "es",
+    "msg": "Si está viendo esta página, algo salió mal, buscamos en todas partes pero no encontramos nada."
+  },
+  {
+    "lang": "fr",
+    "msg": "Si vous voyez cette page, quelque chose s'est mal passé, nous avons cherché partout mais n'avons rien trouvé."
+  },
+  {
+    "lang": "de",
+    "msg": "Wenn Sie diese Seite sehen, ist etwas schief gelaufen, wir haben überall gesucht, aber nichts gefunden."
+  }
+]
