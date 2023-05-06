@@ -1,46 +1,57 @@
 [
   {
     "lang": "en",
+    "title": "Source Exceed",
     "msg": "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait."
   },
   {
     "lang": "tr",
+    "title": "Kaynak Aşımı",
     "msg": "Bu sayfayı görüyorsanız, çok fazla kullanıcı istekte bulunmakta, bundan dolayı kaynaklar yetersiz, istek işlenmek üzere kuyruğa alındı. Lütfen bekleyiniz."
   },
   {
     "lang": "zh",
+    "title": "源代码超限",
     "msg": "如果您看到此页面，表示有太多的用户正在发出请求，因此资源不足，请求已排队等待处理。 请稍等。"
   },
   {
     "lang": "ar",
+    "title": "تجاوز المصدر",
     "msg": "إذا رأيت هذه الصفحة، فذلك يعني أن هناك الكثير من المستخدمين الذين يقومون بإرسال الطلبات، لذلك تكون الموارد غير كافية، وتم وضع الطلب في قائمة الانتظار للمعالجة. يرجى الانتظار."
   },
   {
     "lang": "ru",
+    "title": "Превышение исходного кода",
     "msg": "Если вы видите эту страницу, слишком много пользователей отправляют запросы, поэтому ресурсов недостаточно, запрос помещен в очередь для обработки. Пожалуйста, подождите."
   },
   {
     "lang": "ja",
+    "title": "ソースコード超過",
     "msg": "このページが表示される場合、多数のユーザーがリクエストを行っているため、リソースが不足しており、リクエストは処理のためにキューに入れられました。しばらくお待ちください。"
   },
   {
     "lang": "pt",
+    "title": "Limite de Código Fonte Excedido",
     "msg": "Se você está vendo esta página, muitos usuários estão fazendo solicitações, então os recursos são insuficientes, a solicitação foi colocada em fila para processamento. Por favor, aguarde."
   },
   {
     "lang": "hi",
+    "title": "स्रोत अधिकतम सीमा अधिक हो गई",
     "msg": "यदि आप इस पृष्ठ को देख रहे हैं, तो बहुत से उपयोगकर्ता अनुरोध कर रहे हैं, इसलिए संसाधन अपर्याप्त हो जाते हैं, अनुरोध को प्रसंस्करण के लिए कतार में रख दिया गया है। कृपया प्रतीक्षा करें।"
   },
   {
     "lang": "es",
+    "title": "Exceso de Código Fuente",
     "msg": "Si está viendo esta página, demasiados usuarios están haciendo solicitudes, por lo que los recursos son insuficientes, la solicitud ha sido encolada para su procesamiento. Por favor, espere."
   },
   {
     "lang": "fr",
+    "title": "Source dépassée",
     "msg": "Si vous voyez cette page, trop d'utilisateurs font des demandes, les ressources sont donc insuffisantes, la demande a été mise en file d'attente pour traitement. Veuillez patienter."
   },
   {
     "lang": "de",
+    "title": "Quelle überschritten",
     "msg": "Wenn Sie diese Seite sehen, stellen zu viele Benutzer Anfragen, so dass die Ressourcen nicht ausreichend sind. Die Anfrage wurde zur Verarbeitung in die Warteschlange gestellt. Bitte warten Sie."
   }
 ]
