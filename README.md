@@ -1,4 +1,4 @@
-# Server-Status-Pages
+# bClass Status Pages
 Status pages | 401, 403, 404, 500, custom modes...
 
 # Features
