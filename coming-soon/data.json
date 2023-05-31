@@ -1,57 +1,57 @@
 [
   {
     "lang": "en",
-    "title": "BEING DEVELOPED",
-    "msg": "Being written, drawn, developed.."
+    "title": "COMING SOON",
+    "msg": "This service will be at your service soon.."
   },
   {
     "lang": "tr",
-    "title": "GELIŞTIRILIYOR",
-    "msg": "Yazılıyor, çiziliyor, geliştiriliyor.."
+    "title": "COK YAKINDA",
+    "msg": "Bu servis yakında hizmetinizde olacak.."
   },
   {
     "lang": "zh",
-    "title": "正在开发中",
-    "msg": "正在编写、绘制、开发中.."
+    "title": "即将推出",
+    "msg": "此服务将很快为您提供服务。"
   },
   {
     "lang": "ar",
-    "title": "يتم التطوير",
-    "msg": "يتم الكتابة والرسم والتطوير.."
+    "title": "قريبًا جدًا",
+    "msg": "هذه الخدمة ستكون في خدمتك قريبًا.."
   },
   {
     "lang": "ru",
-    "title": "В РАЗРАБОТКЕ",
-    "msg": "Пишется, рисуется, разрабатывается.."
+    "title": "СКОРО",
+    "msg": "Эта услуга скоро будет к вашим услугам.."
   },
   {
     "lang": "ja",
-    "title": "開発中",
-    "msg": "書かれ、描かれ、開発中.."
+    "title": "まもなく",
+    "msg": "このサービスはまもなくご利用いただけます。"
   },
   {
     "lang": "pt",
-    "title": "EM DESENVOLVIMENTO",
-    "msg": "Sendo escrito, desenhado, desenvolvido.."
+    "title": "EM BREVE",
+    "msg": "Em breve, este serviço estará disponível para você."
   },
   {
     "lang": "hi",
-    "title": "विकसित हो रहा है",
-    "msg": "लिखा जा रहा है, बनाया जा रहा है, विकसित हो रहा है.."
+    "title": "जल्द आ रहा है",
+    "msg": "यह सेवा जल्द ही आपकी सेवा में होगी।"
   },
   {
     "lang": "es",
-    "title": "EN DESARROLLO",
-    "msg": "Siendo escrito, dibujado, desarrollado.."
+    "title": "PRÓXIMAMENTE",
+    "msg": "Este servicio estará pronto a tu disposición.."
   },
   {
     "lang": "fr",
-    "title": "EN COURS DE DÉVELOPPEMENT",
-    "msg": "En train d'être écrit, dessiné, développé.."
+    "title": "PROCHAINEMENT",
+    "msg": "Ce service sera bientôt à votre disposition.."
   },
   {
     "lang": "de",
-    "title": "IN ENTWICKLUNG",
-    "msg": "Wird geschrieben, gezeichnet, entwickelt.."
+    "title": "BALD VERFÜGBAR",
+    "msg": "Dieser Service wird bald für Sie verfügbar sein.."
   }
 ]

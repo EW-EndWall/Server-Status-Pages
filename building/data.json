@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "< BEING DEVELOPED />",
+    "msg": "Being written, drawn, developed.."
+  },
+  {
+    "lang": "tr",
+    "title": "< GELIŞTIRILIYOR />",
+    "msg": "Yazılıyor, çiziliyor, geliştiriliyor.."
+  },
+  {
+    "lang": "zh",
+    "title": "< 正在开发中 />",
+    "msg": "正在编写、绘制、开发中.."
+  },
+  {
+    "lang": "ar",
+    "title": "< يتم التطوير />",
+    "msg": "يتم الكتابة والرسم والتطوير.."
+  },
+  {
+    "lang": "ru",
+    "title": "< В РАЗРАБОТКЕ />",
+    "msg": "Пишется, рисуется, разрабатывается.."
+  },
+  {
+    "lang": "ja",
+    "title": "< 開発中 />",
+    "msg": "書かれ、描かれ、開発中.."
+  },
+  {
+    "lang": "pt",
+    "title": "< EM DESENVOLVIMENTO />",
+    "msg": "Sendo escrito, desenhado, desenvolvido.."
+  },
+  {
+    "lang": "hi",
+    "title": "< विकसित हो रहा है />",
+    "msg": "लिखा जा रहा है, बनाया जा रहा है, विकसित हो रहा है.."
+  },
+  {
+    "lang": "es",
+    "title": "< EN DESARROLLO />",
+    "msg": "Siendo escrito, dibujado, desarrollado.."
+  },
+  {
+    "lang": "fr",
+    "title": "< EN COURS DE DÉVELOPPEMENT />",
+    "msg": "En train d'être écrit, dessiné, développé.."
+  },
+  {
+    "lang": "de",
+    "title": "< IN ENTWICKLUNG />",
+    "msg": "Wird geschrieben, gezeichnet, entwickelt.."
+  }
+]
