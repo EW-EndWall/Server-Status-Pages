@@ -16,6 +16,8 @@ Status pages | 401, 403, 404, 500, custom modes...
 
 # Other modes
   - coming soon
+  - building
+  - planned
   - host default ( only lang en )
   - host nameserver ( only lang en )
   - maintenance mode

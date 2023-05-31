@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "Maintenance Mode",
+    "msg": "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied."
+  },
+  {
+    "lang": "tr",
+    "title": "Bakım Modu",
+    "msg": "Bu sayfayı görüyorsanız, bir şeyler bozulmuş veya bazı yenilikler yapılıyor, genellikle uzun sürmez, erişiminiz reddedildi."
+  },
+  {
+    "lang": "zh",
+    "title": "维护模式",
+    "msg": "如果您看到此页面，表示某些东西出了问题或正在进行创新，通常不会花费很长时间，您的访问被拒绝。"
+  },
+  {
+    "lang": "ar",
+    "title": "وضع الصيانة",
+    "msg": "إذا رأيت هذه الصفحة ، فإن شيئًا ما مكسور أو يجري بعض الابتكار ، وعادةً ما لا يستغرق وقتًا طويلاً ، تم رفض وصولك."
+  },
+  {
+    "lang": "ru",
+    "title": "Режим обслуживания",
+    "msg": "Если вы видите эту страницу, что-то сломалось или происходит некоторое новшество, обычно это не занимает много времени, доступ вам запрещен."
+  },
+  {
+    "lang": "ja",
+    "title": "メンテナンスモード",
+    "msg": "このページが表示される場合、何かが壊れているか、何かの革新が進行中です。通常、それには長時間かかりません。あなたのアクセスは拒否されました。"
+  },
+  {
+    "lang": "pt",
+    "title": "Modo de Manutenção",
+    "msg": "Se você está vendo esta página, algo está quebrado ou alguma inovação está acontecendo, geralmente não leva muito tempo, seu acesso é negado."
+  },
+  {
+    "lang": "hi",
+    "title": "रखरखाव मोड",
+    "msg": "यदि आप इस पृष्ठ को देख रहे हैं, तो कुछ टूट गया होगा या कुछ नई तकनीक का उपयोग हो रहा होगा, आमतौर पर यह लंबे समय नहीं लेता, आपका पहुंच निषेधित है।"
+  },
+  {
+    "lang": "es",
+    "title": "Modo de Mantenimiento",
+    "msg": "Si está viendo esta página, algo está roto o está ocurriendo alguna innovación, por lo general no tarda mucho, su acceso está denegado."
+  },
+  {
+    "lang": "fr",
+    "title": "Mode Maintenance",
+    "msg": "Si vous voyez cette page, quelque chose est cassé ou une innovation est en cours, cela ne prend généralement pas longtemps, votre accès est refusé."
+  },
+  {
+    "lang": "de",
+    "title": "Wartungsmodus",
+    "msg": "Wenn Sie diese Seite sehen, ist etwas kaputt oder es findet eine Innovation statt, normalerweise dauert es nicht lange, Ihr Zugang wird verweigert."
+  }
+]
