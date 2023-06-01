@@ -1,6 +1,29 @@
-# bClass Status Pages
+<br/>
+<p align="center">
+  <a href="https://github.com/EW-EndWall/SHORT">
+    <img src="https://github.com/EW-EndWall/bClass-Status-Pages/assets/43109779/285c4e72-4cf5-47b7-b1cc-5b9590795c5d" alt="Logo" width="220" height="220">
+  </a>
 
-Status pages | 401, 403, 404, 500, custom modes...
+  <h3 align="center">bClass<br/>Status Pages</h3>
+
+  <p align="center">
+    Pre-made status sheets
+    <br/>
+    <br/>
+  </p>
+</p>
+
+## Table Of Contents
+
+* [About](#about)
+* [Features](#features)
+* [Status Pages](#status-pages)
+* [Other Modes](#other-modes)
+* [License](#license)
+
+## About
+
+It is designed to be used in --- services and systems within the scope of bClass ~ bClass Status Pages --- project.
 
 # Features
 
@@ -17,18 +40,22 @@ Status pages | 401, 403, 404, 500, custom modes...
 - 404
 - 500
 
-# Other modes
+# Other Modes
 
-- coming soon
 - building
-- planned
 - closed
-- host default ( only lang en )
-- host nameserver ( only lang en )
+- coming soon
+- host default
+- host nameserver
 - maintenance mode
+- planned
 - source exceed
 - source redirected
 
 # Screenshots
 
-(be added)
+![screenshot](https://github.com/EW-EndWall/bClass-Status-Pages/assets/43109779/e357facd-ebc9-4e28-b770-244e3717f2de)
+
+## License
+
+To be edited.
