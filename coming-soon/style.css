@@ -29,12 +29,8 @@ section {
 }
 
 .coming_content {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
   margin: 0 auto;
+  padding-top: 15vh;
   color: #7b7d7d;
   text-align: center;
   z-index: 101;
@@ -45,7 +41,6 @@ section {
   letter-spacing: 2px;
   text-align: center;
   color: #b3b6b7;
-  white-space: nowrap;
 }
 .coming_content .separator_container {
   width: 100%;
@@ -93,7 +88,6 @@ section {
   font-weight: 500;
   text-align: center;
   margin: 0;
-  white-space: nowrap;
 }
 .coming_content h2 a {
   text-decoration: underline;

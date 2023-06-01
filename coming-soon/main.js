@@ -35,7 +35,7 @@ for (let i = 0; i < particleCount; i++) {
 function particle() {
   this.x = Math.random() * canvas.width;
   this.y = canvas.height + Math.random() * 300;
-  this.speed = 4 + Math.random();
+  this.speed = 0.1 + Math.random();
   this.radius = Math.random() * 3;
   this.opacity = (Math.random() * 100) / 1000;
 }

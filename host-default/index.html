@@ -2,9 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="robots" content="noindex, nofollow" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>WEB - Default page</title>
+    <meta http-equiv="content-type" content="text/html charset=utf-8" />
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <title>A OBJECT IS APPROACHING</title>
     <link rel="icon" type="image/x-icon" href="./favicon/favicon.ico" />
     <link rel="icon" href="./favicon/favicon-16x16.png" sizes="16x16" />
     <link rel="icon" href="./favicon/favicon-32x32.png" sizes="32x32" />
@@ -20,88 +25,36 @@
     />
     <link rel="apple-touch-icon" href="./favicon/apple-touch-icon.png" />
     <meta name="msapplication-TileImage" content="./favicon/favicon.ico" />
-    <link rel="stylesheet" href="style.css" />
   </head>
+  <link rel="stylesheet" href="style.css" />
   <body>
-    <main>
-      <h1>CustomPanel</h1>
-      <br />
-      <h2>Domain Default Page</h2>
-      <hr />
-      <p>
-        This domain is managed using the
-        <a href="https://example.com/" rel="external"
-          >CustomPanel Server Management Panel</a
-        >. If you see this page, there's no content in this area yet.
-      </p>
-      <ul>
-        <li>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="icon"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"
-            />
-          </svg>
-          <span
-            >With the information sent to you log in to the panel and make your
-            necessary adjustments</span
-          >
-        </li>
-        <li>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="icon"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"
-            />
-          </svg>
-          <span>Log in to the FTP server with your credentials</span>
-        </li>
-        <li>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="icon"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z"
-            />
-          </svg>
-          <span>Customize or remove this <code>index.html</code> file</span>
-        </li>
-      </ul>
-      <hr />
-      <p><b>Would you like to enter the panel to edit?</b></p>
-      <p>
-        <a href="https://example.com" rel="external">Go to panel &rarr;</a>
-      </p>
-    </main>
-    <footer>
-      <small>
-        &copy;example.com <br />
-        2000-<span id="year"></span
-      ></small>
-    </footer>
-    <script src="mainjs"></script>
+    <div class="overlay"></div>
+    <div class="stars" aria-hidden="true"></div>
+    <div class="starts2" aria-hidden="true"></div>
+    <div class="stars3" aria-hidden="true"></div>
+
+    <section>
+      <canvas id="beerCanvas"></canvas>
+      <div class="coming_content">
+        <h1 id="title">A OBJECT IS APPROACHING</h1>
+        <br />
+        <div class="separator_container">
+          <div class="separator line_separator">
+            <span>
+              <img src="img.svg" alt="logo" />
+            </span>
+          </div>
+        </div>
+        <h2 id="msg">
+          It seems that this object has no shape, start editing !
+        </h2>
+        <h3>
+          copyright from <a href="https://example.com" id="link">example.com</a>
+        </h3>
+        <hr class="foter_hr" />
+        <h4>powered by <a href="https://example.com">example.com</a></h4>
+      </div>
+    </section>
   </body>
+  <script src="main.js"></script>
 </html>

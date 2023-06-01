@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "A OBJECT IS APPROACHING",
+    "msg": "It seems that this object has no shape, start editing !"
+  },
+  {
+    "lang": "tr",
+    "title": "BIR CISIM YAKLASIYOR",
+    "msg": "Görünüşe göre bu cismin bir şekli yok, düzenlemeye başla !"
+  },
+  {
+    "lang": "zh",
+    "title": "有一物体正在靠近",
+    "msg": "这个物体似乎没有形状，开始编辑吧！"
+  },
+  {
+    "lang": "ar",
+    "title": "يقترب جسم ما",
+    "msg": "يبدو أن هذا الجسم ليس له شكل، ابدأ التحرير!"
+  },
+  {
+    "lang": "ru",
+    "title": "ПРИБЛИЖАЕТСЯ ОБЪЕКТ",
+    "msg": "Похоже, у этого объекта нет формы, начните редактирование!"
+  },
+  {
+    "lang": "ja",
+    "title": "物体が接近しています",
+    "msg": "この物体は形を持っていないようです、編集を開始してください！"
+  },
+  {
+    "lang": "pt",
+    "title": "UM OBJETO ESTÁ SE APROXIMANDO",
+    "msg": "Parece que este objeto não tem forma, comece a editar!"
+  },
+  {
+    "lang": "hi",
+    "title": "एक वस्तु के करीब आ रही है",
+    "msg": "लगता है कि इस वस्तु का कोई आकार नहीं है, संपादन शुरू करें!"
+  },
+  {
+    "lang": "es",
+    "title": "SE ACERCA UN OBJETO",
+    "msg": "Parece que este objeto no tiene forma, ¡comienza a editar!"
+  },
+  {
+    "lang": "fr",
+    "title": "UN OBJET S'APPROCHE",
+    "msg": "Il semble que cet objet n'ait pas de forme, commencez à éditer !"
+  },
+  {
+    "lang": "de",
+    "title": "EIN OBJEKT NÄHERT SICH",
+    "msg": "Es scheint, dass dieses Objekt keine Form hat, beginne mit der Bearbeitung!"
+  }
+]

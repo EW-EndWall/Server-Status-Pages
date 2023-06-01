@@ -4,7 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello World !</title>
+    <meta http-equiv="content-type" content="text/html charset=utf-8" />
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <title>NEW PLANET</title>
     <link rel="icon" type="image/x-icon" href="./favicon/favicon.ico" />
     <link rel="icon" href="./favicon/favicon-16x16.png" sizes="16x16" />
     <link rel="icon" href="./favicon/favicon-32x32.png" sizes="32x32" />
@@ -20,65 +25,42 @@
     />
     <link rel="apple-touch-icon" href="./favicon/apple-touch-icon.png" />
     <meta name="msapplication-TileImage" content="./favicon/favicon.ico" />
-    <link rel="stylesheet" href="style.css" />
   </head>
+  <link rel="stylesheet" href="style.css" />
   <body>
-    <div class="container">
-      <div>
-        <h1>Name Server</h1>
+    <div class="overlay"></div>
+    <div class="stars" aria-hidden="true"></div>
+    <div class="starts2" aria-hidden="true"></div>
+    <div class="stars3" aria-hidden="true"></div>
+
+    <section>
+      <canvas id="beerCanvas"></canvas>
+      <div class="coming_content">
+        <h1 id="title">NEW PLANET</h1>
         <br />
-        <hr />
-        <h2>
-          İt seems you have connected the name server settings to this server.
-        </h2>
-        <div class="box">
-          <div>
+        <div class="separator_container">
+          <div class="separator line_separator">
             <span>
-              <strong>- NS1 -</strong>
-              <hr />
-              <p>ns1.example.com</p>
-            </span>
-            <span>
-              <strong>- NS2 -</strong>
-              <hr />
-              <p>ns2.example.com</p>
-            </span>
-          </div>
-          <h3>- OR -</h3>
-          <div>
-            <span>
-              <strong>- NS1 -</strong>
-              <hr />
-              <p>ns1.example.com</p>
-            </span>
-            <span>
-              <strong>- NS2 -</strong>
-              <hr />
-              <p>ns2.example.com</p>
+              <img src="img.svg" alt="logo" />
             </span>
           </div>
         </div>
-
-        <h3>You can register your domain name through the panel.</h3>
-        <h4>
-          <p>
-            <a
-              href="https://example.com"
-              rel="external"
-              target="_blank"
-              title="panel"
-              >Go to panel &rarr;</a
-            >
-          </p>
-        </h4>
-        <hr />
+        <h2 id="msg">
+          Frequencies with which you can communicate with this planet.
+        </h2>
         <br />
-        <small>
-          &copy;example.com <br />
-          2000-<span id="year"></span
-        ></small>
+        <div>
+          <h2>ns1.example.com</h2>
+          <br />
+          <h2>ns2.example.com</h2>
+        </div>
+        <h3>
+          copyright from <a href="https://example.com" id="link">example.com</a>
+        </h3>
+        <hr class="foter_hr" />
+        <h4>powered by <a href="https://example.com">example.com</a></h4>
       </div>
-    </div>
-    <script src="main.js"></script>
+    </section>
   </body>
+  <script src="main.js"></script>
 </html>

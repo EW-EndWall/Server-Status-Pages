@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "NEW PLANET",
+    "msg": "Frequencies with which you can communicate with this planet."
+  },
+  {
+    "lang": "tr",
+    "title": "YENI GEZEGEN",
+    "msg": "Bu gezegen ile iletişim kurabileceğin frekanslar."
+  },
+  {
+    "lang": "zh",
+    "title": "新行星",
+    "msg": "您可以与该行星进行通信的频率。"
+  },
+  {
+    "lang": "ar",
+    "title": "كوكب جديد",
+    "msg": "ترددات يمكنك التواصل بها مع هذا الكوكب."
+  },
+  {
+    "lang": "ru",
+    "title": "НОВАЯ ПЛАНЕТА",
+    "msg": "Частоты, с помощью которых можно связаться с этой планетой."
+  },
+  {
+    "lang": "ja",
+    "title": "新しい惑星",
+    "msg": "この惑星と通信するための周波数。"
+  },
+  {
+    "lang": "pt",
+    "title": "NOVO PLANETA",
+    "msg": "Frequências com as quais você pode se comunicar com este planeta."
+  },
+  {
+    "lang": "hi",
+    "title": "नया ग्रह",
+    "msg": "जिन तालिकाओं के साथ आप इस ग्रह से संवाद कर सकते हैं।"
+  },
+  {
+    "lang": "es",
+    "title": "NUEVO PLANETA",
+    "msg": "Frecuencias con las que puedes comunicarte con este planeta."
+  },
+  {
+    "lang": "fr",
+    "title": "NOUVELLE PLANÈTE",
+    "msg": "Fréquences avec lesquelles vous pouvez communiquer avec cette planète."
+  },
+  {
+    "lang": "de",
+    "title": "NEUER PLANET",
+    "msg": "Frequenzen, mit denen Sie mit diesem Planeten kommunizieren können."
+  }
+]
