@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "CLOSED !",
+    "msg": "Lost in the depths of space.."
+  },
+  {
+    "lang": "tr",
+    "title": "KAPANDI !",
+    "msg": "Uzayın derinliklerinde kaybolup gitti.."
+  },
+  {
+    "lang": "zh",
+    "title": "关闭！",
+    "msg": "迷失在宇宙的深处..."
+  },
+  {
+    "lang": "ar",
+    "title": "مغلق!",
+    "msg": "ضائع في أعماق الفضاء..."
+  },
+  {
+    "lang": "ru",
+    "title": "ЗАКРЫТО!",
+    "msg": "Потерян в глубинах космоса..."
+  },
+  {
+    "lang": "ja",
+    "title": "閉じられました！",
+    "msg": "宇宙の深淵に迷い込んで..."
+  },
+  {
+    "lang": "pt",
+    "title": "FECHADO!",
+    "msg": "Perdido nas profundezas do espaço..."
+  },
+  {
+    "lang": "hi",
+    "title": "बंद!",
+    "msg": "अंतरिक्ष की गहराइयों में खो गया..."
+  },
+  {
+    "lang": "es",
+    "title": "¡CERRADO!",
+    "msg": "Perdido en las profundidades del espacio..."
+  },
+  {
+    "lang": "fr",
+    "title": "FERMÉ !",
+    "msg": "Perdu dans les profondeurs de l'espace..."
+  },
+  {
+    "lang": "de",
+    "title": "GESCHLOSSEN!",
+    "msg": "Verloren in den Tiefen des Weltraums..."
+  }
+]
