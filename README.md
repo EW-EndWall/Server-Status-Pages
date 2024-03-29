@@ -15,11 +15,11 @@
 
 ## Table Of Contents
 
-* [About](#about)
-* [Features](#features)
-* [Status Pages](#status-pages)
-* [Other Modes](#other-modes)
-* [License](#license)
+- [About](#about)
+- [Features](#features)
+- [Status Pages](#status-pages)
+- [Other Modes](#other-modes)
+- [License](#license)
 
 ## About
 
@@ -58,4 +58,4 @@ It is designed to be used in --- services and systems within the scope of bClass
 
 ## License
 
-To be edited.
+Distributed under the Bik Public License 2.0 License. See [LICENSE](./LICENSE) for more information.

@@ -1,0 +1,35 @@
+/*
+  * * Bclass Status Pages v1.0.0 (--)
+  * * Copyright 2021 ("https://github.com/EW-EndWall/bClass-Status-Pages/blob/main/LICENSE")
+  * * Licensed ("Bik Public License 2.0")
+  * * License Update ("03/28/2024")
+*/
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  display: block;
+  margin: 5% auto;
+  width: 45%;
+}
+h1 {
+  text-align: center;
+  margin: 10px auto;
+}
+p {
+  text-align: center;
+  margin: 20px 20%;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 85%;
+  }
+}
