@@ -1,0 +1,49 @@
+{
+  "Error 400": "Fehler 400",
+  "Invalid request sent": "Ungültige Anfrage gesendet",
+
+  "Error 401": "Fehler 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "Wenn Sie diese Seite sehen, haben Sie versucht, hier ohne Autorisierung zuzugreifen, Ihr Zugriff wird verweigert.",
+
+  "Error 403": "Fehler 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "Wenn Sie diese Seite sehen, ist der Zugriff auf diese Ressource untersagt, Ihr Zugriff wird verweigert.",
+
+  "Error 404": "Fehler 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "Wenn Sie diese Seite sehen, ist etwas schief gelaufen, wir haben überall gesucht, aber nichts gefunden.",
+
+  "Error 410": "Fehler 410",
+  "The requested resource is no longer available on the server.": "Die angeforderte Ressource ist auf dem Server nicht mehr verfügbar.",
+
+  "Error 500": "Fehler 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "Wenn Sie diese Seite sehen, ist etwas schiefgelaufen und wir haben etwas durcheinandergebracht. Wenn Sie sie schon lange sehen, haben wir ein Problem. :/",
+
+  "< BEING DEVELOPED />": "< IN ENTWICKLUNG />",
+  "Being written, drawn, developed..": "Wird geschrieben, gezeichnet, entwickelt..",
+
+  "CLOSED !": "GESCHLOSSEN!",
+  "Lost in the depths of space..": "Verloren in den Tiefen des Weltraums...",
+
+  "COMING SOON": "BALD VERFÜGBAR",
+  "At your service soon": "Bald zu Ihren Diensten",
+
+  "A OBJECT IS APPROACHING": "EIN OBJEKT NÄHERT SICH",
+  "It seems that this object has no shape, start editing !": "Es scheint, dass dieses Objekt keine Form hat, beginne mit der Bearbeitung!",
+
+  "NEW PLANET": "NEUER PLANET",
+  "Frequencies with which you can communicate with this planet.": "Frequenzen, mit denen Sie mit diesem Planeten kommunizieren können.",
+
+  "Maintenance Mode": "Wartungsmodus",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "Wenn Sie diese Seite sehen, ist etwas kaputt oder es findet eine Innovation statt, normalerweise dauert es nicht lange, Ihr Zugang wird verweigert.",
+
+  "< PLANNED />": "< GEPLANT />",
+  "This service is still in the planning stage..": "Dieser Service befindet sich noch in der Planungsphase..",
+
+  "SOON": "BALD",
+  "This service will be at your service soon..": "Dieser Service wird bald für Sie verfügbar sein..",
+
+  "Source Exceed": "Quelle überschritten",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "Wenn Sie diese Seite sehen, stellen zu viele Benutzer Anfragen, so dass die Ressourcen nicht ausreichend sind. Die Anfrage wurde zur Verarbeitung in die Warteschlange gestellt. Bitte warten Sie.",
+
+  "Source Redirected": "Quelle umgeleitet",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "Wenn Sie diese Seite sehen, wurden die Quellen des Notfall-Systems umgeleitet, Ihr Zugriff ist verweigert."
+}

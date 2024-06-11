@@ -1,0 +1,49 @@
+{
+  "Error 400": "Ошибка 400",
+  "Invalid request sent": "Отправлен недействительный запрос",
+
+  "Error 401": "Ошибка 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "Если вы видите эту страницу, вы попытались получить доступ сюда без авторизации, ваш доступ отклонен.",
+
+  "Error 403": "Ошибка 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "Если вы видите эту страницу, доступ к этому ресурсу запрещен, ваш доступ отклонен.",
+
+  "Error 404": "Ошибка 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "Если вы видите эту страницу, что-то пошло не так, мы искали везде, но ничего не нашли.",
+
+  "Error 410": "Ошибка 410",
+  "The requested resource is no longer available on the server.": "Запрашиваемый ресурс больше недоступен на сервере.",
+
+  "Error 500": "Ошибка 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "Если вы видите эту страницу, что-то пошло не так, и мы что-то испортили. Если вы видите ее давно, у нас проблемы. :/",
+
+  "< BEING DEVELOPED />": "< В РАЗРАБОТКЕ />",
+  "Being written, drawn, developed..": "Пишется, рисуется, разрабатывается..",
+
+  "CLOSED !": "ЗАКРЫТО!",
+  "Lost in the depths of space..": "Потерян в глубинах космоса...",
+
+  "COMING SOON": "СКОРО",
+  "At your service soon": "Скоро к вашим услугам",
+
+  "A OBJECT IS APPROACHING": "ПРИБЛИЖАЕТСЯ ОБЪЕКТ",
+  "It seems that this object has no shape, start editing !": "Похоже, у этого объекта нет формы, начните редактирование!",
+
+  "NEW PLANET": "НОВАЯ ПЛАНЕТА",
+  "Frequencies with which you can communicate with this planet.": "Частоты, с помощью которых можно связаться с этой планетой.",
+
+  "Maintenance Mode": "Режим обслуживания",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "Если вы видите эту страницу, что-то сломалось или происходит некоторое новшество, обычно это не занимает много времени, доступ вам запрещен.",
+
+  "< PLANNED />": "< ЗАПЛАНИРОВАНО />",
+  "This service is still in the planning stage..": "Эта услуга все еще находится в стадии планирования..",
+
+  "SOON": "СКОРО",
+  "This service will be at your service soon..": "Эта услуга скоро будет к вашим услугам..",
+
+  "Source Exceed": "Превышение исходного кода",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "Если вы видите эту страницу, слишком много пользователей отправляют запросы, поэтому ресурсов недостаточно, запрос помещен в очередь для обработки. Пожалуйста, подождите.",
+
+  "Source Redirected": "Перенаправление исходного кода",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "Если вы видите эту страницу, источники системы экстренного реагирования перенаправлены, ваш доступ запрещен."
+}

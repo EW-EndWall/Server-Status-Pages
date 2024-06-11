@@ -1,0 +1,49 @@
+{
+  "Error 400": "त्रुटि 400",
+  "Invalid request sent": "अमान्य अनुरोध भेजा गया",
+
+  "Error 401": "त्रुटि 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "यदि आप इस पृष्ठ को देख रहे हैं, तो आपने अनुमति के बिना यहां पहुंचने का प्रयास किया है, आपका पहुंच अस्वीकृत कर दिया गया है।",
+
+  "Error 403": "त्रुटि 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "यदि आप इस पृष्ठ को देख रहे हैं, तो इस संसाधन तक पहुंच निषेधित है, आपका पहुंच अस्वीकृत कर दिया गया है।",
+
+  "Error 404": "त्रुटि 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "यदि आप इस पृष्ठ को देख रहे हैं, तो कुछ गलत हो गया है, हम हर जगह खोज करते रहे लेकिन कुछ नहीं मिला।",
+
+  "Error 410": "त्रुटि 410",
+  "The requested resource is no longer available on the server.": "अनुरोधित संसाधन अब सर्वर पर उपलब्ध नहीं है।",
+
+  "Error 500": "त्रुटि 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "अगर आप इस पृष्ठ को देख रहे हैं, तो कुछ गलत हो गया है और हमने कुछ करबद्ध कर दिया है। अगर आप इसे बहुत लंबे समय से देख रहे हैं, तो हमें मुसीबत हो गई है।: /",
+
+  "< BEING DEVELOPED />": "< विकसित हो रहा है />",
+  "Being written, drawn, developed..": "लिखा जा रहा है, बनाया जा रहा है, विकसित हो रहा है..",
+
+  "CLOSED !": "बंद!",
+  "Lost in the depths of space..": "अंतरिक्ष की गहराइयों में खो गया...",
+
+  "COMING SOON": "जल्द आ रहा है",
+  "At your service soon": "जल्द ही आपकी सेवा में",
+
+  "A OBJECT IS APPROACHING": "एक वस्तु के करीब आ रही है",
+  "It seems that this object has no shape, start editing !": "लगता है कि इस वस्तु का कोई आकार नहीं है, संपादन शुरू करें!",
+
+  "NEW PLANET": "नया ग्रह",
+  "Frequencies with which you can communicate with this planet.": "जिन तालिकाओं के साथ आप इस ग्रह से संवाद कर सकते हैं।",
+
+  "Maintenance Mode": "रखरखाव मोड",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "यदि आप इस पृष्ठ को देख रहे हैं, तो कुछ टूट गया होगा या कुछ नई तकनीक का उपयोग हो रहा होगा, आमतौर पर यह लंबे समय नहीं लेता, आपका पहुंच निषेधित है।",
+
+  "< PLANNED />": "< योजनाबद्ध />",
+  "This service is still in the planning stage..": "यह सेवा अभी योजना चरण में है..",
+
+  "SOON": "जल्द ही",
+  "This service will be at your service soon..": "यह सेवा जल्द ही आपकी सेवा में होगी।",
+
+  "Source Exceed": "स्रोत अधिकतम सीमा अधिक हो गई",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "यदि आप इस पृष्ठ को देख रहे हैं, तो बहुत से उपयोगकर्ता अनुरोध कर रहे हैं, इसलिए संसाधन अपर्याप्त हो जाते हैं, अनुरोध को प्रसंस्करण के लिए कतार में रख दिया गया है। कृपया प्रतीक्षा करें।",
+
+  "Source Redirected": "स्रोत रीडायरेक्ट किया गया",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "यदि आप इस पृष्ठ को देख रहे हैं, तो स्रोत आपातकालीन सिस्टम को पुनर्निर्देशित कर दिए गए हैं, आपका पहुँच अस्वीकृत है।"
+}

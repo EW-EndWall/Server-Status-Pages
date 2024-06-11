@@ -1,0 +1,49 @@
+{
+  "Error 400": "Hata 400",
+  "Invalid request sent": "Geçersiz istek gönderildi",
+
+  "Error 401": "Hata 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "Bu sayfayı görüyorsanız, buraya yetkisiz erişmeye çalıştınız, erişiminiz reddedildi.",
+
+  "Error 403": "Hata 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "Bu sayfayı görüyorsanız, bu kaynağa erişim yasaktır, erişiminiz reddedilmiştir.",
+
+  "Error 404": "Hata 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "Bu sayfayı görüyorsanız, bir şeyler ters gitti, her yeri aradık ama hiçbir şey bulamadık.",
+
+  "Error 410": "Hata 410",
+  "The requested resource is no longer available on the server.": "İstenen kaynak artık sunucuda mevcut değil.",
+
+  "Error 500": "Hata 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "Bu sayfayı görüyorsanız, bir şeyler ters gitti ve biz bir şeyleri mahvettik. Uzun zamandır görüyorsanız, başımız dertte. :/",
+
+  "< BEING DEVELOPED />": "< GELIŞTIRILIYOR />",
+  "Being written, drawn, developed..": "Yazılıyor, çiziliyor, geliştiriliyor..",
+
+  "CLOSED !": "KAPANDI !",
+  "Lost in the depths of space..": "Uzayın derinliklerinde kaybolup gitti..",
+
+  "COMING SOON": "COK YAKINDA",
+  "At your service soon": "Yakında hizmetinizde",
+
+  "A OBJECT IS APPROACHING": "BIR CISIM YAKLASIYOR",
+  "It seems that this object has no shape, start editing !": "Görünüşe göre bu cismin bir şekli yok, düzenlemeye başla !",
+
+  "NEW PLANET": "YENI GEZEGEN",
+  "Frequencies with which you can communicate with this planet.": "Bu gezegen ile iletişim kurabileceğin frekanslar.",
+
+  "Maintenance Mode": "Bakım Modu",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "Bu sayfayı görüyorsanız, bir şeyler bozulmuş veya bazı yenilikler yapılıyor, genellikle uzun sürmez, erişiminiz reddedildi.",
+
+  "< PLANNED />": "< PLANLANMIS />",
+  "This service is still in the planning stage..": "Bu servis henüz planlama aşamasında..",
+
+  "SOON": "YAKINDA",
+  "This service will be at your service soon..": "Bu servis yakında hizmetinizde olacak..",
+
+  "Source Exceed": "Kaynak Aşımı",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "Bu sayfayı görüyorsanız, çok fazla kullanıcı istekte bulunmakta, bundan dolayı kaynaklar yetersiz, istek işlenmek üzere kuyruğa alındı. Lütfen bekleyiniz.",
+
+  "Source Redirected": "Kaynak Yönlendirildi",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "Bu sayfayı görüyorsanız, kaynaklar acil durum sistemine yönlendirildi, erişiminiz reddedildi."
+}

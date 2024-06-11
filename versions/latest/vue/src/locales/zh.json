@@ -1,0 +1,49 @@
+{
+  "Error 400": "错误 400",
+  "Invalid request sent": "发送无效请求",
+
+  "Error 401": "错误 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "如果您看到此页面，则说明您在未经授权的情况下尝试访问此处，您的访问被拒绝。",
+
+  "Error 403": "错误 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "如果您看到此页面，则禁止访问此资源，您的访问被拒绝。",
+
+  "Error 404": "错误 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "如果您看到此页面，说明出现了问题，我们已经到处搜索，但找不到任何内容。",
+
+  "Error 410": "错误 410",
+  "The requested resource is no longer available on the server.": "请求的资源在服务器上不再可用。",
+
+  "Error 500": "错误 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "如果你看到这个页面，那么肯定是出了些问题，我们搞砸了什么。如果你看到这个页面很长时间了，那我们就有麻烦了。: /",
+
+  "< BEING DEVELOPED />": "< 正在开发中 />",
+  "Being written, drawn, developed..": "正在编写、绘制、开发中..",
+
+  "CLOSED !": "关闭！",
+  "Lost in the depths of space..": "迷失在宇宙的深处...",
+
+  "COMING SOON": "即将推出",
+  "At your service soon": "即将为您服务",
+
+  "A OBJECT IS APPROACHING": "有一物体正在靠近",
+  "It seems that this object has no shape, start editing !": "这个物体似乎没有形状，开始编辑吧！",
+
+  "NEW PLANET": "新行星",
+  "Frequencies with which you can communicate with this planet.": "您可以与该行星进行通信的频率。",
+
+  "Maintenance Mode": "维护模式",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "如果您看到此页面，表示某些东西出了问题或正在进行创新，通常不会花费很长时间，您的访问被拒绝。",
+
+  "< PLANNED />": "< 计划中 />",
+  "This service is still in the planning stage..": "此服务仍处于规划阶段。",
+
+  "SOON": "很快",
+  "This service will be at your service soon..": "此服务将很快为您提供服务。",
+
+  "Source Exceed": "源代码超限",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "如果您看到此页面，表示有太多的用户正在发出请求，因此资源不足，请求已排队等待处理。 请稍等。",
+
+  "Source Redirected": "源代码重定向",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "如果您看到此页面，则源紧急系统将重定向，您的访问被拒绝。"
+}

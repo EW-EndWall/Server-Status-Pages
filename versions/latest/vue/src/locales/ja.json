@@ -1,0 +1,49 @@
+{
+  "Error 400": "エラー 400",
+  "Invalid request sent": "無効なリクエストが送信されました",
+
+  "Error 401": "エラー 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "このページを見ている場合、許可なくここにアクセスしようとしました。アクセスが拒否されました。",
+
+  "Error 403": "エラー 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "このページを見ている場合、このリソースへのアクセスが禁止されています。アクセスが拒否されました。",
+
+  "Error 404": "エラー 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "このページが表示されている場合、何かがうまくいかなかったため、どこを探しても何も見つかりませんでした。",
+
+  "Error 410": "エラー 410",
+  "The requested resource is no longer available on the server.": "リクエストされたリソースはサーバー上にもう存在しません。",
+
+  "Error 500": "エラー 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "このページを見ている場合、何かがうまくいかず、何かを台無しにしてしまいました。長い間見ている場合、問題があります。 : /",
+
+  "< BEING DEVELOPED />": "< 開発中 />",
+  "Being written, drawn, developed..": "書かれ、描かれ、開発中..",
+
+  "CLOSED !": "閉じられました！",
+  "Lost in the depths of space..": "宇宙の深淵に迷い込んで...",
+
+  "COMING SOON": "まもなく",
+  "At your service soon": "近日中にご提供いたします",
+
+  "A OBJECT IS APPROACHING": "物体が接近しています",
+  "It seems that this object has no shape, start editing !": "この物体は形を持っていないようです、編集を開始してください！",
+
+  "NEW PLANET": "新しい惑星",
+  "Frequencies with which you can communicate with this planet.": "この惑星と通信するための周波数。",
+
+  "Maintenance Mode": "メンテナンスモード",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "このページが表示される場合、何かが壊れているか、何かの革新が進行中です。通常、それには長時間かかりません。あなたのアクセスは拒否されました。",
+
+  "< PLANNED />": "< 計画中 />",
+  "This service is still in the planning stage..": "このサービスはまだ計画段階です。",
+
+  "SOON": "すぐに",
+  "This service will be at your service soon..": "このサービスはまもなくご利用いただけます。",
+
+  "Source Exceed": "ソースコード超過",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "このページが表示される場合、多数のユーザーがリクエストを行っているため、リソースが不足しており、リクエストは処理のためにキューに入れられました。しばらくお待ちください。",
+
+  "Source Redirected": "ソースコードがリダイレクトされました",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "このページが表示される場合は、緊急時システムのソースがリダイレクトされ、アクセスが拒否されます。"
+}

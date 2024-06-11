@@ -1,0 +1,49 @@
+{
+  "Error 400": "خطأ 400",
+  "Invalid request sent": "تم إرسال طلب غير صالح",
+
+  "Error 401": "خطأ 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "إذا رأيت هذه الصفحة ، فقد حاولت الوصول إلى هنا بدون إذن ، تم رفض وصولك.",
+
+  "Error 403": "خطأ 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "إذا رأيت هذه الصفحة ، فالوصول إلى هذا المورد ممنوع ، تم رفض وصولك.",
+
+  "Error 404": "خطأ 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "إذا رأيت هذه الصفحة، فهناك خطأ ما، بحثنا في كل مكان ولكننا لم نجد أي شيء.",
+
+  "Error 410": "خطأ 410",
+  "The requested resource is no longer available on the server.": "المورد المطلوب لم يعد متاحًا على الخادم.",
+
+  "Error 500": "خطأ 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "إذا كنت ترى هذه الصفحة، فإن شيئًا ما حدث وخربنا شيئًا. إذا كنت تراها لفترة طويلة، فنحن في ورطة. :/",
+
+  "< BEING DEVELOPED />": "< يتم التطوير />",
+  "Being written, drawn, developed..": "يتم الكتابة والرسم والتطوير..",
+
+  "CLOSED !": "مغلق!",
+  "Lost in the depths of space..": "ضائع في أعماق الفضاء...",
+
+  "COMING SOON": "قريبًا جدًا",
+  "At your service soon": "في خدمتك قريباً",
+
+  "A OBJECT IS APPROACHING": "يقترب جسم ما",
+  "It seems that this object has no shape, start editing !": "يبدو أن هذا الجسم ليس له شكل، ابدأ التحرير!",
+
+  "NEW PLANET": "كوكب جديد",
+  "Frequencies with which you can communicate with this planet.": "ترددات يمكنك التواصل بها مع هذا الكوكب.",
+
+  "Maintenance Mode": "وضع الصيانة",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "إذا رأيت هذه الصفحة ، فإن شيئًا ما مكسور أو يجري بعض الابتكار ، وعادةً ما لا يستغرق وقتًا طويلاً ، تم رفض وصولك.",
+
+  "< PLANNED />": "< مخطط />",
+  "This service is still in the planning stage..": "هذه الخدمة لا تزال في مرحلة التخطيط..",
+
+  "SOON": "قَرِيبًا",
+  "This service will be at your service soon..": "هذه الخدمة ستكون في خدمتك قريبًا..",
+
+  "Source Exceed": "تجاوز المصدر",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "إذا رأيت هذه الصفحة، فذلك يعني أن هناك الكثير من المستخدمين الذين يقومون بإرسال الطلبات، لذلك تكون الموارد غير كافية، وتم وضع الطلب في قائمة الانتظار للمعالجة. يرجى الانتظار.",
+
+  "Source Redirected": "تم إعادة توجيه المصدر",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "إذا رأيت هذه الصفحة، فإن مصادر النظام الطارئ تمت إعادة توجيهها، وتم رفض الوصول الخاص بك."
+}

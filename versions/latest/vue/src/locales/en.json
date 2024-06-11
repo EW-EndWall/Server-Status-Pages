@@ -1,0 +1,49 @@
+{
+  "Error 400": "Error 400",
+  "Invalid request sent": "Invalid request sent",
+
+  "Error 401": "Error 401",
+  "If you're seeing this page, you tried to access here without authorization, your access is denied.": "If you're seeing this page, you tried to access here without authorization, your access is denied.",
+
+  "Error 403": "Error 403",
+  "If you're seeing this page, access to this resource is prohibited, your access is denied.": "If you're seeing this page, access to this resource is prohibited, your access is denied.",
+
+  "Error 404": "Error 404",
+  "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.": "If you're seeing this page, something went wrong, we searched everywhere but couldn't find anything.",
+
+  "Error 410": "Error 410",
+  "The requested resource is no longer available on the server.": "The requested resource is no longer available on the server.",
+
+  "Error 500": "Error 500",
+  "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/": "If you're seeing this page, something went wrong and we messed something up. If you've been seeing it for a long time, we're in trouble. :/",
+
+  "< BEING DEVELOPED />": "< BEING DEVELOPED />",
+  "Being written, drawn, developed..": "Being written, drawn, developed..",
+
+  "CLOSED !": "CLOSED !",
+  "Lost in the depths of space..": "Lost in the depths of space..",
+
+  "COMING SOON": "COMING SOON",
+  "At your service soon": "At your service soon",
+
+  "A OBJECT IS APPROACHING": "A OBJECT IS APPROACHING",
+  "It seems that this object has no shape, start editing !": "It seems that this object has no shape, start editing !",
+
+  "NEW PLANET": "NEW PLANET",
+  "Frequencies with which you can communicate with this planet.": "Frequencies with which you can communicate with this planet.",
+
+  "Maintenance Mode": "Maintenance Mode",
+  "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.": "If you're seeing this page, something is broken or some innovation is going on, usually it doesn't take long, your access is denied.",
+
+  "< PLANNED />": "< PLANNED />",
+  "This service is still in the planning stage..": "This service is still in the planning stage..",
+
+  "SOON": "SOON",
+  "This service will be at your service soon..": "This service will be at your service soon..",
+
+  "Source Exceed": "Source Exceed",
+  "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.": "If you're seeing this page, too many users are making requests, so resources are insufficient, the request has been queued for processing. Please wait.",
+
+  "Source Redirected": "Source Redirected",
+  "If you're seeing this page, sources emergency system to redirected, your access is denied.": "If you're seeing this page, sources emergency system to redirected, your access is denied."
+}
