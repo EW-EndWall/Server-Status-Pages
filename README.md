@@ -36,16 +36,17 @@ Status pages library ready to use on websites and applications.
 # Features
 
 - Multiple device support (responsive design)
-- Theme white/dark browser settings
 - Multiple languages support
   (en, tr, zh, ar, ru, ja, pt, hi, es, fr, de)
-- Foter domain pulls from url
+- Editable footer
 
 # Status Pages
 
+- 400
 - 401
 - 403
 - 404
+- 410
 - 500
 
 # Other Modes
@@ -57,6 +58,7 @@ Status pages library ready to use on websites and applications.
 - host nameserver
 - maintenance mode
 - planned
+- soon
 - source exceed
 - source redirected
 
@@ -66,8 +68,7 @@ Status pages library ready to use on websites and applications.
 
 # Documents
 
-> [!TIP]
-> **You can look at the [documentation](./versions/latest/docs/README.md) to learn how to use it.**
+> [!TIP] > **You can look at the [documentation](./versions/latest/docs/README.md) to learn how to use it.**
 
 # Usage Rights
 
@@ -78,6 +79,7 @@ According to this license text, the rights of the license holder and users are a
 ### Licensees Rights
 
 > [!WARNING]
+>
 > - The licensee who owns the copyright of the work has the right to protect the work and through this license grants its users the right to use it under certain conditions.
 > - Has the right to determine and change the license of the work.
 > - Has the right to grant permission for commercial use.
@@ -87,6 +89,7 @@ According to this license text, the rights of the license holder and users are a
 ### Users Rights
 
 > [!IMPORTANT]
+>
 > - The user has accepted the license terms and has the right to use the work as long as it complies with these rules.
 > - Has the right to change the work as she wishes, but these changes must not violate the license conditions.
 > - Has the right to use it for commercial purposes.
