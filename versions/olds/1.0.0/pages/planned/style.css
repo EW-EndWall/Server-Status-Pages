@@ -41,6 +41,7 @@ section {
   color: #7b7d7d;
   text-align: center;
   z-index: 101;
+  position: relative;
 }
 .coming_content h1 {
   font-size: clamp(0.8rem, 8vw, 70px);
